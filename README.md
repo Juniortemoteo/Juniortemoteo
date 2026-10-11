@@ -39,9 +39,7 @@ Aplicativo mobile para organizar alimentos da geladeira, acompanhar itens próxi
 
 ## Formação
 
-**Desenvolvimento de Sistemas** — formação técnica em andamento/concluída.
-
-> Atualize esta linha com a instituição e o período para deixar a formação mais completa.
+**Formação técnica em Desenvolvimento de Sistemas.**
 
 ## Contato
 
