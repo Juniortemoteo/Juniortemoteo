@@ -1,4 +1,4 @@
-# Olá! Eu sou Junior Temoteo 👋
+ Olá! Me chamo Gessi Martins Junior
 
 <p align="center">
   <strong>Desenvolvedor Júnior Full Stack</strong><br>
